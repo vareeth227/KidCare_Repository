@@ -38,7 +38,7 @@ El acceso del pediatra a la bitácora expirará automáticamente tras un períod
 El sistema estará disponible únicamente para dispositivos Android en su versión móvil
 No se implementará el foro parental en esta versión del proyecto
 Los datos ingresados son de exclusiva responsabilidad del padre o tutor que los registra.
-La aplicación se limitará a comentarios y acotaciones de los padres bajo su responsabilidad y criterio, y esto no tendrá peso o intervención en ningún aspecto médico o algún aspecto legale.
+La aplicación se limitará a comentarios y acotaciones de los padres bajo su responsabilidad y criterio, y esto no tendrá peso o intervención en ningún aspecto médico o algún aspecto legales.
 
 
 
